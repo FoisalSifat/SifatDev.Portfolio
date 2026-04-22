@@ -1,20 +1,44 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 👋 Hi, I'm Sifat
 
-# Run and deploy your AI Studio app
+💻 CSE Student | Aspiring Web Developer  
+📍 Based in Dhaka, Bangladesh  
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/17wSwH-3WP3Sz78qVtBrvNQARWE_KWH8Y
+## 🚀 About Me
 
-## Run Locally
+I'm a Computer Science student passionate about building clean and functional web applications.  
+Currently focused on learning and mastering the core of web development step by step.
 
-**Prerequisites:**  Node.js
+- 🌱 Learning: JavaScript, React, Node.js  
+- 🎯 Goal: Become a skilled full-stack developer  
+- ⚡ Fun fact: I enjoy exploring aesthetic places and creating cinematic travel content  
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ Tech Stack
+
+**Frontend:**
+- HTML
+- CSS
+- Tailwind CSS
+- Bootstrap
+- JavaScript (learning)
+
+**Backend (Learning):**
+- Node.js
+- Express.js
+
+**Tools:**
+- Git & GitHub
+- VS Code
+
+---
+
+## 📂 Projects
+
+### 🔹 Fit Tailor *(Upcoming)*
+A custom clothing platform where users can design outfits and order tailored clothes online.
+
+### 🔹 GariNow *(Concept)*
+A
